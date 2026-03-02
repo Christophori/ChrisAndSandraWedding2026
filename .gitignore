@@ -1,0 +1,13 @@
+# Content editing scratch pad — not for public repo
+content-review.txt
+
+# Original filename (index.html is the live file)
+christopher-and-sandra-wedding.html
+
+# Zip archive and raw files folder
+files.zip
+files/
+
+# OS junk
+.DS_Store
+Thumbs.db
