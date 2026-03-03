@@ -1,0 +1,567 @@
+WEDDING SITE — CONTENT REVIEW
+==============================
+Review each block below. Edit the text you want changed directly in this file,
+then share it back and all changes will be applied to the HTML.
+
+Label format: [SECTION > element-type] describes where each piece of text lives.
+Lines marked with *** need your attention (placeholders or things to confirm).
+
+
+============================================================
+SECTION: PASSWORD GATE
+============================================================
+
+[GATE > title]
+You Have Been Summoned
+
+[GATE > subtitle]
+To a wedding in the realm of the gold and emerald hills
+
+[GATE > prompt]
+Enter the passphrase
+
+[GATE > button]
+Enter
+
+[GATE > hint]
+Contact Christopher or Sandra if you need the passphrase.
+
+*** [GATE > password (set in code)]
+fellowship2026
+↑ This is the actual passphrase guests must type. Change if desired.
+
+
+============================================================
+SECTION: HERO (top of page)
+============================================================
+
+[HERO > eyebrow text]
+You are cordially invited to witness
+
+[HERO > names]
+Christopher & Sandra
+
+[HERO > date]
+June 20, 2026
+
+[HERO > location line]
+Moscow, Idaho · The heart of the Palouse
+
+
+============================================================
+SECTION: OUR STORY
+============================================================
+
+[STORY > section label]
+The Tale Begins
+
+[STORY > section title]
+Our Story
+
+*** [STORY > paragraph 1]
+Their tale began, as many good tales do, in an unassuming place—a small bagel shop in Moscow, Idaho. There they spoke long together of learning, of distant lands, and adventures they wished to have. That very day, they set out walking beneath open skies toward the arboretum, and though the road proved longer than expected and twilight gathered softly around them, neither wished to turn back. For in one another they had found something rare and quietly wonderful. Christopher saw in Sandra a keen mind, a gentle strength, and a kindness that seemed to shine without effort. And Sandra saw in Christopher a and Sandra saw in Chris one who met her as an equal. One who was kind of heart, keen of mind, and quick with laughter. From that day forward, their paths did not part.
+
+*** [STORY > paragraph 2]
+Their bond was forged not in a single moment, but across many seasons. Through years of study, long journeys, and the trials and triumphs of building their lives, they grew together—supporting one another through graduate school, new cities, and new callings. They wandered the wild places of the earth—through the peaks of Banff, the fires of Hawaii, the ancient lands of Ireland and Iceland, and beyond. At last, on a quiet winter morning beside the frozen waters of Lake Minnewanka, as the sun rose over snow and sky, Christopher asked Sandra to walk with him for all the days to come. Through happy tears and joyful disbelief, she said yes.
+
+*** [STORY > paragraph 3]
+Now, having found their first home and begun shaping their place in the world, they look toward the horizon together. They will continue to explore distant lands, serve their communities, create, teach, and build a life defined not by any single destination, but by the journey they share. With kindness as their compass, love as their constant, and their village growing around them, their greatest adventure has only just begun.
+
+On June 20th, 2026, they begin the next chapter — surrounded by the people they love most.
+
+*** [STORY > quote block (displayed as a side-bar quote)]
+"I would rather share one lifetime with you than face all the ages of this world alone."
+
+============================================================
+SECTION: SCHEDULE
+============================================================
+
+[SCHEDULE > section label]
+Tentative Order of Events
+
+[SCHEDULE > section title]
+Weekend Schedule
+
+--- SAT, JUNE 20 — WEDDING DAY ---
+
+[SCHEDULE > tab label, day 1]
+Sat, June 20 · Wedding Day
+
+*** [SCHEDULE > 3:30 PM event title]
+Guests Arrive
+[SCHEDULE > 3:30 PM description]
+Find your seat and settle into the outdoor gathering. There will be short activities available prior to the ceremony. 
+
+*** [SCHEDULE > 4:30 PM event title]
+Ceremony
+[SCHEDULE > 4:30 PM description]
+The vows are spoken
+
+*** [SCHEDULE > 5:00 PM event title]
+Cocktail Half-Hour
+[SCHEDULE > 5:00 PM description]
+Drinks, mingling, music and fun
+
+*** [SCHEDULE > 5:30 PM event title]
+Reception
+[SCHEDULE > 5:30 PM description]
+Feast, toasts, dancing, and merriment
+
+*** [SCHEDULE > 9:00 PM event title]
+Farewell
+[SCHEDULE > 9:00 PM description]
+A final farewell under the stars
+
+--- SUN, JUNE 21 — DAY AFTER ---
+
+[SCHEDULE > tab label, day 2]
+Sun, June 21 · Day After
+
+[SCHEDULE > 10:00 AM event title]
+Morning Yoga
+[SCHEDULE > 10:00 AM description]
+Join us at Idler's Rest Nature Preserve
+
+[SCHEDULE > 11:00 AM event title]
+Guided Hike
+[SCHEDULE > 11:00 AM description]
+A relaxed guided hike at Idler's Rest — approx. 1 mile on easy terrain. Comfortable shoes and good company, nothing more required.
+
+[SCHEDULE > Afternoon event title]
+Free Time
+[SCHEDULE > Afternoon description]
+Wander downtown, grab brunch, visit the farmers market, or head to Kamiak Butte. See our Explore Moscow section for ideas.
+
+[SCHEDULE > what to bring note]
+What to Bring Sunday
+Yoga mat · Towel · Water bottle · Comfortable walking shoes
+
+
+============================================================
+SECTION: VENUE
+============================================================
+
+[VENUE > section label]
+The Sacred Ground
+
+[VENUE > section title]
+Venue & Location
+
+*** [VENUE > venue name]
+The Gathering Place
+
+[VENUE > address line 1]
+1075 Snow Road
+
+[VENUE > address line 2]
+Moscow, Idaho
+
+[VENUE > description]
+Set amidst the rolling hills of the Palouse, The Gathering Place is the cherished home of Ian von Lindern and Margrit von Braun, whose generosity has welcomed countless friends and family to share in good times. The property is a quiet haven, shaded by trees, dotted with fruits and flowers, and home to a variety of chickens and livestock. Its open backyard offers a warm, natural setting to celebrate, to gather, and to make memories that echo gently, like laughter carried across the hills.
+
+*** [VENUE > parking info]
+Parking:
+Limited parking is available on-site along the driveway and designated areas. Please follow posted signs and attendants’ directions to ensure safe and organized parking for all guests. Those who are able, please  consider taking our shuttle or carpooling. 
+
+*** [VENUE > parking info]
+Shuttle:
+A shuttle between Moscow Downtown, UI (25 Silver lot — free parking during summer session!), and the wedding venue will be available. Feel free to be merry and enjoy drinks without worrying about driving.
+
+
+============================================================
+SECTION: TRAVEL
+============================================================
+
+[TRAVEL > section label]
+The Journey Here
+
+[TRAVEL > section title]
+Travel & Accommodation
+
+[TRAVEL > Flying In > heading]
+Flying In
+
+[TRAVEL > Flying In > line 1]
+Nearest major airport: Spokane International (GEG)
+
+[TRAVEL > Flying In > line 2]
+Pullman–Moscow Regional Airport (PUW) is closest — just 8 miles from the venue.
+
+[TRAVEL > Places to Stay > heading]
+Places to Stay
+
+[TRAVEL > Places to Stay > line 1]
+Moscow and nearby Pullman have B&Bs, hotels, and rentals to suit all budgets. Please reach out if you have any questions! 
+
+[TRAVEL > Getting Around > heading]
+Getting Around
+
+[TRAVEL > Getting Around > line 1]
+While Moscow is walkable, we recommend renting a car, especially if you plan to visit nearby CDA, or spend time visiting the outdoors in the area — the Palouse is beautiful to explore and public transit is limited.
+
+[TRAVEL > Getting Around > line 2]
+Carpooling with fellow guests is warmly encouraged!
+
+[TRAVEL > About Moscow > heading]
+About Moscow
+
+[TRAVEL > About Moscow > line 1]
+A charming college town in the Idaho Panhandle, Moscow has great food, local shops, and stunning countryside all around.
+
+[TRAVEL > Wedding Shuttle > line 1]
+A shuttle between Moscow Downtown, UI (25 Silver lot — free parking during summer session!), and the wedding venue is planned to save parking room and to allow guests to responsibly imbibe in celebration.
+
+============================================================
+SECTION: RSVP
+============================================================
+
+[RSVP > section label]
+Answer the Call
+
+*** [RSVP > deadline badge]
+RSVP by May 1, 2026
+
+[RSVP > description]
+Please let us know if you'll be joining us on this grand adventure. We'd love to have you by our side.
+
+[RSVP > button]
+Confirm Your Attendance
+[RSVP > link]
+https://docs.google.com/forms/d/e/1FAIpQLScRudMoeHvJLIYz6T7RV_uyWtrEgRpA9JMKE8wm0voiWQQTGw/viewform
+
+
+
+[RSVP > fine print]
+Please RSVP for each member of your party.
+
+
+============================================================
+SECTION: GALLERY
+============================================================
+
+[GALLERY > section label]
+Captured Moments
+
+[GALLERY > section title]
+Photo Gallery
+
+[GALLERY > card 1 title]
+The Proposal Banff
+
+[GALLERY > card 1 description]
+Among the peaks and lakes of the Canadian Rockies — Banff National Park
+
+*** [GALLERY > card 1 link]
+https://gallery.banffphotography.com/christopherandsandra/
+
+[GALLERY > card 2 title]
+Engagement Celebration Post Falls
+
+[GALLERY > card 2 description]
+More beautiful moments in North Idaho
+
+*** [GALLERY > card 2 link]
+https://daniellemrobertsphotography.pixieset.com/sandraandchrissneaks/completegallery/
+
+============================================================
+SECTION: EXPLORE MOSCOW & THE PALOUSE
+============================================================
+
+[EXPLORE > section label]
+The Realm Beyond
+
+[EXPLORE > section title]
+Explore Moscow & the Palouse
+
+[EXPLORE > intro paragraph]
+Moscow, Idaho is a hidden gem tucked into the rolling hills of the Palouse — full of trails, markets, culture, and character. Here are some of our favorite spots to help you make the most of your visit.
+
+--- ACTIVITY CARDS (each needs a photo added) ---
+
+[EXPLORE > card 1 tag]
+Nature · Hiking
+[EXPLORE > card 1 title]
+Idler's Rest Nature Preserve
+[EXPLORE > card 1 description]
+A beloved forested preserve right in Moscow with winding trails through second-growth cedar forest. The site of our Sunday yoga & hike. Free, open year-round, and one of our favorite hikes near town.
+[EXPLORE > card 1 link]
+https://www.palouselandtrust.org/idlers-rest-nature-preserve
+[EXPLORE > card 1 photo]
+Idlers-Rest-trail.jpg
+
+[EXPLORE > card 2 tag]
+Nature · Hiking · Views
+[EXPLORE > card 2 title]
+Kamiak Butte County Park
+[EXPLORE > card 2 description]
+A rocky, pine-topped ridge rising above the Palouse farmland. Hike to the summit for sweeping 360° views across miles of golden wheat fields. About 30 minutes from Moscow — absolutely worth it.
+[EXPLORE > card 2 link]
+https://www.wta.org/go-hiking/hikes/kamiak-butte?gad_source=1&gad_campaignid=10655975433&gbraid=0AAAAADexWDeKwXr_va3JFyk1fNcyynC34&gclid=Cj0KCQiA5I_NBhDVARIsAOrqIsaYFNyGNfZNArnb4L3TPY4_CcUao6GofPgYNYQGq9h-xDCrmaTWaEsaAt7wEALw_wcB
+[EXPLORE > card 2 photo]
+Kamiak_View.jpeg
+
+[EXPLORE > card 3 tag]
+Trees and Gardens · Strolling
+[EXPLORE > card 3 title]
+U of I Arboretum & Botanical Garden
+[EXPLORE > card 3 description]
+A serene 65-acre garden ("The Arb") on the University of Idaho campus. Hundreds of labeled tree species from across the globe and peaceful walking paths. Gorgeous in June. Free and open to all.
+[EXPLORE > card 3 link]
+https://www.uidaho.edu/recreation/arboretum
+[EXPLORE > card 3 photo]
+arboretum.jpeg
+
+[EXPLORE > card 4 tag]
+Wildlife · One-of-a-Kind
+[EXPLORE > card 4 title]
+WSU Bear Research Center
+[EXPLORE > card 4 description]
+One of the most unique experiences in the region — observe grizzly bears up close at WSU's research facility. 
+[EXPLORE > card 4 link]
+https://bearcenter.wsu.edu/
+[EXPLORE > card 4 photo]
+Bears2.webp
+
+[EXPLORE > card 5 tag]
+Campuses · University of Idaho
+[EXPLORE > card 5 title]
+Explore UI Campus
+[EXPLORE > card 5 description]
+Walk the historic University of Idaho campus in Moscow. Take a stroll down the Hello Walk, enjoy the architecture,  visit the bookstore for Vandal Swag!
+[EXPLORE > card 5 link]
+https://www.uidaho.edu/explore/moscow
+[EXPLORE > card 5 photo]
+UofI_admin.webp
+
+[EXPLORE > card 6 tag]
+Campuses · Washington State University
+[EXPLORE > card 6 title]
+Explore WSU Campuses
+[EXPLORE > card 6 description]
+Vist Washington State University's beautiful campus in Pullman. Grab ice cream at Ferdinand Shoppe, Visit the "Crimson Cube" art exhibits and enjoy the scenery and architecture. Hint: if you see someone in WSU gear and yell "Go Cougs!", they will yell it back. It's the law.
+[EXPLORE > card 6 link]
+https://explore.wsu.edu/stories/explore-pullman/
+[EXPLORE > card 6 photo]
+WSU.jpg
+
+
+[EXPLORE > card 7 tag]
+Downtown · Local
+[EXPLORE > card 7 title]
+Downtown Moscow Shops
+[EXPLORE > card 7 description]
+Moscow's downtown is lined with independent bookshops, boutiques, galleries, and cafes. Main Street is the beating heart of the city — perfect for wandering, window-shopping, enjoying a morning coffee or evening cocktail. 
+[EXPLORE > card 7 link]
+https://sah-archipedia.org/buildings/ID-01-057-0003
+[EXPLORE > card 7 photo]
+Moscow_Downtown.png
+
+[EXPLORE > card 8 tag]
+Market · Saturday Mornings
+[EXPLORE > card 8 title]
+Moscow Farmers Market
+[EXPLORE > card 8 description]
+One of the finest farmers markets in the Pacific Northwest — held every Saturday morning in downtown Moscow between 8 am to 1 pm. Fresh produce, artisans, baked goods, and flowers. An absolute must if you're here Saturday morning.
+[EXPLORE > card 8 link]
+https://www.ci.moscow.id.us/197/Community-Events-Moscow-Farmers-Market
+[EXPLORE > card 7 photo]
+Market.jpeg
+
+[EXPLORE > card 9 tag]
+Scenery · Day Trip
+[EXPLORE > card 9 title]
+Palouse Scenic Drive
+[EXPLORE > card 9 description]
+Take a drive through the rolling Palouse — one of America's most photographed agricultural landscapes. In June the hills are lush green and gold. Stop at Steptoe Butte for panoramic views for miles.
+[EXPLORE > card 9 link]
+https://parks.wa.gov/find-parks/state-parks/steptoe-butte-state-park-heritage-site
+[EXPLORE > card 9 photo]
+SteptoeButte_ValleyView.jpg
+
+[EXPLORE > card 10 tag]
+Adventure · Day Trip
+[EXPLORE > card 10 title]
+Coeur d'Alene
+[EXPLORE > card 10 description]
+Famous for its stunning blue waters and the world's longest floating boardwalk, it’s the perfect place to grab a coffee, walk the lakefront, or browsing the downtown boutiques. If you’re flying into GEG or driving down from the north, take a breather in downtown Coeur d’Alene.
+[EXPLORE > card 10 link]
+https://coeurdalene.org/
+[EXPLORE > card 10 photo]
+CDA.avif
+
+[EXPLORE > card 11 tag]
+Scenery · Day Trip
+[EXPLORE > card 11 title]
+Elk Creek Falls Hike
+[EXPLORE > card 11 description]
+If you enjoy a hike sticking, take the scenic 50-mile drive to Elk Creek Falls Trailhead. This spot offers the highest waterfall in Northern Idaho. The trails range from easy strolls to more moderate loops, making it accessible for anyone who wants a quick "forest fix" during their stay.
+Pro-tip: Grab a famous huckleberry ice cream in the town of Elk River on your way back!
+[EXPLORE > card 11 link]
+https://www.fs.usda.gov/r01/nezperce-clearwater/recreation/elk-creek-falls-trailhead-and-picnic-area[EXPLORE > card 11 photo]
+ElkCreekFalls.jpg
+
+
+[EXPLORE > card 12 tag]
+Scenery · Day Trip
+[EXPLORE > card 12 title]
+Elk Creek Falls Hike
+[EXPLORE > card 12 description]
+Step back in time at the Giant Cedar Grove Trailhead. This ancient grove features western red cedars that have stood for centuries, including the famous "Champion Tree" a cedar that estimated to be over 3000 years old!  The trail is paved and accessible, making it a peaceful, easy walk through some of the oldest living things in the Pacific Northwest.
+Plus this location is just a bit pask Elk Creek so you can easily visit both spots in one trip.
+[EXPLORE > card 12 link]
+https://www.fs.usda.gov/r01/nezperce-clearwater/recreation/giant-cedar-grove-trailhead
+[EXPLORE > card 12 photo]
+GiantCedarGrove.jpg
+
+--- EATS & DRINKS ---
+(Edit name, description, and emoji icon for each. Add a URL to each link field when ready.)
+
+[EXPLORE > eats 1]
+icon: 🍔
+name: Humble Burger
+description: Craft burgers with local ingredients — a Moscow staple.
+link: https://www.google.com/maps/place/Humble+Burger/@46.730914,-117.0041954,17z/data=!3m1!4b1!4m6!3m5!1s0x54a0277e9dafd485:0x70bcd7e24a1bd386!8m2!3d46.730914!4d-117.0016205!16s%2Fg%2F11bw5trys4?entry=ttu&g_ep=EgoyMDI2MDIyNS4wIKXMDSoASAFQAw%3D%3D
+
+[EXPLORE > eats 2]
+icon: 🍦
+name: Panhandle Ice Cream
+description: Handcrafted local ice cream. Perfect after a walk downtown.
+link:https://www.google.com/maps/place/Panhandle+Cone+%26+Coffee/@46.7308714,-117.0016656,17z/data=!3m1!4b1!4m6!3m5!1s0x54a02716cac9c20b:0xc8418abfd33cf497!8m2!3d46.7308714!4d-117.0016656!16s%2Fg%2F11h60n3n5q?entry=ttu&g_ep=EgoyMDI2MDIyNS4wIKXMDSoASAFQAw%3D%3D
+
+[EXPLORE > eats 3]
+icon: 🥯
+name: The Bagel Shop
+description: Our first date spot. Lots of options for fresh bagel sandwiches.
+link: https://www.google.com/maps/place/Moscow+Bagel+%26+Deli/@46.7320003,-117.0036223,16z/data=!3m1!4b1!4m6!3m5!1s0x54a0277eca0324d5:0x2f7cc17ff6362976!8m2!3d46.7319967!4d-117.0010527!16s%2Fg%2F1tr7cjb1?entry=ttu&g_ep=EgoyMDI2MDIyNS4wIKXMDSoASAFQAw%3D%3D
+
+[EXPLORE > eats 4]
+icon: 🏝️
+name: Loco Grinz
+description: Beloved local Hawaiian BBQ.
+link: https://www.google.com/maps/place/LocoGrinz+Hawaiian+BBQ/@46.7341703,-117.004514,16z/data=!3m1!4b1!4m6!3m5!1s0x54a0277e9b139e91:0x6df481d7e3dac429!8m2!3d46.7341667!4d-117.0019444!16s%2Fg%2F1vd94tkz?entry=ttu&g_ep=EgoyMDI2MDIyNS4wIKXMDSoASAFQAw%3D%3D
+
+[EXPLORE > eats 5]
+icon: 🍳
+name: Breakfast Club
+description: The go-to Moscow breakfast — great pancakes and coffee.
+link: https://www.google.com/maps/place/The+Breakfast+Club/@46.7311083,-117.0041909,16z/data=!3m1!4b1!4m6!3m5!1s0x54a02779259d8365:0x1c0bde9dcd429dc6!8m2!3d46.7311047!4d-117.0016213!16s%2Fg%2F1tf6x1rc?entry=ttu&g_ep=EgoyMDI2MDIyNS4wIKXMDSoASAFQAw%3D%3D
+
+[EXPLORE > eats 6]
+icon: 🌯
+name: Rancho Viejo
+description: Authentic Mexican cuisine with generous portions.
+link:https://www.google.com/maps/place/Rancho+Viejo/@46.7361468,-117.3127785,12.25z/data=!4m10!1m2!2m1!1srancho+viejo!3m6!1s0x549f8726c42e65b9:0xfe518e21c9f124f7!8m2!3d46.7290972!4d-117.1819889!15sCgxyYW5jaG8gdmllam8iA4gBAVoOIgxyYW5jaG8gdmllam-SARJtZXhpY2FuX3Jlc3RhdXJhbnTgAQA!16s%2Fg%2F1v3lpnyh?entry=ttu&g_ep=EgoyMDI2MDIyNS4wIKXMDSoASAFQAw%3D%3D
+
+[EXPLORE > eats 7]
+icon: 🍕
+name: Mialina's Pizza
+description: Upscale artisan pizza with creative toppings in a cozy setting.
+link: https://www.google.com/maps/place/Maialina+Pizzeria+Napoletana/@46.729903,-117.0011266,16z/data=!3m1!4b1!4m6!3m5!1s0x54a02778fd7bed0d:0x5ff7c124c7fd1fbf!8m2!3d46.729903!4d-117.0011266!16s%2Fg%2F124srdhs1?entry=ttu&g_ep=EgoyMDI2MDIyNS4wIKXMDSoASAFQAw%3D%3D
+
+[EXPLORE > eats 8]
+icon: 🍹
+name: Nectar
+description: Amazing food, cocktails and a vibrant atmosphere downtown.
+link: https://www.google.com/maps/place/Nectar+Restaurant+%26+Wine/@46.4404366,-125.1256828,6z/data=!4m10!1m2!2m1!1sNectar!3m6!1s0x54a02778e57a0b8d:0x9bcf978c671806f0!8m2!3d46.7299463!4d-117.0019179!15sCgZOZWN0YXJaCCIGbmVjdGFykgEKcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VRdFoxQXpOazEzRUFF4AEA-gEFCK4CEEs!16s%2Fg%2F1v8k_b0n?entry=ttu&g_ep=EgoyMDI2MDIyNS4wIKXMDSoASAFQAw%3D%3D
+
+[EXPLORE > eats 9]
+icon: ☕
+name: Café Artista
+description: Cozy coffee house, great espresso, rotating local art.
+link: https://www.google.com/maps/place/Caf%C3%A9+Artista/@46.7325031,-117.0011808,16z/data=!3m1!4b1!4m6!3m5!1s0x54a0277eb645b43d:0xe31be56fb8458a21!8m2!3d46.7325031!4d-117.0011808!16s%2Fg%2F1tf5kc6m?entry=ttu&g_ep=EgoyMDI2MDIyNS4wIKXMDSoASAFQAw%3D%3D
+
+[EXPLORE > eats 10]
+icon: 🌍
+name: One World Café
+description: Community café, great pastries, lunch, brunch, and pub.
+link: https://www.google.com/maps/place/One+World+Cafe/@46.7302225,-117.037638,14z/data=!4m10!1m2!2m1!1sOne+World+Caf%C3%A9!3m6!1s0x54a02778e3ce0411:0x12d1015ff0321b08!8m2!3d46.7302225!4d-117.0015891!15sCg9PbmUgV29ybGQgQ2Fmw6laESIPb25lIHdvcmxkIGNhZsOpkgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F1v3hzq1k?entry=ttu&g_ep=EgoyMDI2MDIyNS4wIKXMDSoASAFQAw%3D%3D
+
+[EXPLORE > eats 11]
+icon: 🥙
+name: Mikey's
+description: A Moscow institution. Gyros, beers, vegetarian options, and a Moscow rite of passage.
+link:https://www.google.com/maps/place/Mikey's+Greek+Gyros/@46.7304601,-117.001748,16z/data=!3m1!4b1!4m6!3m5!1s0x54a027791e1a0a71:0x3f3704f4695cbb3b!8m2!3d46.7304601!4d-117.001748!16s%2Fg%2F1tftqtgk?entry=ttu&g_ep=EgoyMDI2MDIyNS4wIKXMDSoASAFQAw%3D%3D
+
+
+============================================================
+SECTION: CONTRIBUTIONS & GIFTS
+============================================================
+
+[GIFTS > section label]
+A Gift of Your Choosing
+
+[GIFTS > section title]
+Contributions & Gifts
+
+[GIFTS > intro]
+Your presence at our celebration is the greatest gift of all. If you wish to contribute something more, we are grateful for anything that helps fuel the adventures ahead.
+
+[GIFTS > Venmo handle]
+@Sandra-Spearman
+
+[GIFTS > PayPal handle]
+@SandralSpearman
+
+[GIFTS > Checks]
+Personal checks may also be made out to Sandra Spearman
+
+============================================================
+SECTION: FAQ
+============================================================
+
+[FAQ > section label]
+Questions Answered
+
+[FAQ > section title]
+FAQ
+
+[FAQ > Q1]
+What should I wear?
+[FAQ > A1]
+We invite you to dress in flowy summer dresses, slacks, or button-up shirts—think garden party meets business casual, with an enchanted twist. As our celebration unfolds on open grass in June, please choose footwear suited for a meadow and consider bringing a layer, as the weather can be unpredictable.
+
+[FAQ > Q2]
+Is the venue outdoors?
+[FAQ > A2]
+Yes, the ceremony will be outdoors. June in Moscow can be beautiful but bring a light layer just in case. We'll have contingency plans for rain.
+
+[FAQ > Q3]
+Are children welcome?
+[FAQ > A3]
+The ceremony and reception are for adults only. Please let us know if you might need assistance finding local caretakers for any children you're bringing in your RSVP so we can assist with planning.
+
+[FAQ > Q4]
+Can I take photos during the ceremony?
+[FAQ > A4]
+We ask that guests put phones away during the ceremony so everyone can be fully present. Our photographer will capture everything. Reception photos are very welcome, share away!
+
+[FAQ > Q5]
+Will there be dietary accommodations?
+[FAQ > A5]
+Yes! Please note any dietary restrictions or allergies when you RSVP and we'll make sure you're cared for.
+
+[FAQ > Q6]
+Is there parking at the venue?
+[FAQ > A6]
+Yes, parking is available on site. Carpooling / taking our shuttle from town is highly encouraged to ensure those who need to park at the venue are able to do so.
+
+[FAQ > Q7]
+What do I need for the Sunday yoga & hike?
+[FAQ > A7]
+Bring a yoga mat, a towel, water, and comfortable shoes. The hike is about 1 mile on easy terrain so no special gear is needed!
+
+[FAQ > Q8]
+Who do I contact with questions?
+[FAQ > A8]
+Reach out to Christopher or Sandra directly — they'd love to hear from you.
+
+
+============================================================
+SECTION: FOOTER
+============================================================
+
+[FOOTER > names & date]
+Christopher & Sandra · June 20, 2026 · Moscow, Idaho
+
+[FOOTER > tagline]
+I used to be an adventurer like you... until I took an arrow to the knee.
