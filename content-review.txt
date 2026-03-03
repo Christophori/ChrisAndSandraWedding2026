@@ -59,15 +59,15 @@ The Tale Begins
 Our Story
 
 *** [STORY > paragraph 1]
-Their tale began, as many good tales do, in an unassuming place—a small bagel shop in Moscow, Idaho. There they spoke long together of learning, of distant lands, and adventures they wished to have. That very day, they set out walking beneath open skies toward the arboretum, and though the road proved longer than expected and twilight gathered softly around them, neither wished to turn back. For in one another they had found something rare and quietly wonderful. Christopher saw in Sandra a keen mind, a gentle strength, and a kindness that seemed to shine without effort. And Sandra saw in Christopher a and Sandra saw in Chris one who met her as an equal. One who was kind of heart, keen of mind, and quick with laughter. From that day forward, their paths did not part.
+Their tale began, as many good tales do, in an unassuming place, a small bagel shop in Moscow, Idaho. There they spoke long together of learning, of distant lands, and adventures they wished to have. That very day, they set out walking beneath open skies toward the arboretum, and though the road proved longer than expected and twilight gathered softly around them, neither wished to turn back. For in one another they had found something rare and quietly wonderful. Christopher saw in Sandra a keen mind, a gentle strength, and a kindness that seemed to shine without effort. And Sandra saw in Christopher one who met her as an equal, who was kind of heart, sharp of wit, and quick with laughter. From that day forward, their paths did not part.
 
 *** [STORY > paragraph 2]
-Their bond was forged not in a single moment, but across many seasons. Through years of study, long journeys, and the trials and triumphs of building their lives, they grew together—supporting one another through graduate school, new cities, and new callings. They wandered the wild places of the earth—through the peaks of Banff, the fires of Hawaii, the ancient lands of Ireland and Iceland, and beyond. At last, on a quiet winter morning beside the frozen waters of Lake Minnewanka, as the sun rose over snow and sky, Christopher asked Sandra to walk with him for all the days to come. Through happy tears and joyful disbelief, she said yes.
+Their bond was forged not in a single moment, but across many seasons. Through years of study, long journeys, and the trials and triumphs of building their lives, they grew together, supporting one another through graduate school, new cities, and new callings. They wandered the wild places of the earth, through the peaks of Banff, the fires of Hawaii, the ancient lands of Ireland and Iceland, and beyond. At last, on a quiet winter morning beside the frozen waters of Lake Minnewanka, as the sun rose over snow and sky, Christopher asked Sandra to walk with him for all the days to come. Through happy tears and joyful disbelief, she said yes.
 
 *** [STORY > paragraph 3]
 Now, having found their first home and begun shaping their place in the world, they look toward the horizon together. They will continue to explore distant lands, serve their communities, create, teach, and build a life defined not by any single destination, but by the journey they share. With kindness as their compass, love as their constant, and their village growing around them, their greatest adventure has only just begun.
 
-On June 20th, 2026, they begin the next chapter — surrounded by the people they love most.
+On June 20th, 2026, they begin the next chapter surrounded by the people they love most.
 
 *** [STORY > quote block (displayed as a side-bar quote)]
 "I would rather share one lifetime with you than face all the ages of this world alone."
@@ -121,16 +121,18 @@ Sun, June 21 · Day After
 Morning Yoga
 [SCHEDULE > 10:00 AM description]
 Join us at Idler's Rest Nature Preserve
+[Link] https://www.palouselandtrust.org/idlers-rest-nature-preserve
 
 [SCHEDULE > 11:00 AM event title]
 Guided Hike
 [SCHEDULE > 11:00 AM description]
 A relaxed guided hike at Idler's Rest — approx. 1 mile on easy terrain. Comfortable shoes and good company, nothing more required.
+[Link] https://www.palouselandtrust.org/idlers-rest-nature-preserve
 
 [SCHEDULE > Afternoon event title]
 Free Time
 [SCHEDULE > Afternoon description]
-Wander downtown, grab brunch, visit the farmers market, or head to Kamiak Butte. See our Explore Moscow section for ideas.
+Wander downtown, grab brunch, or head to Kamiak Butte. See our Explore Moscow section for ideas.
 
 [SCHEDULE > what to bring note]
 What to Bring Sunday
@@ -161,11 +163,11 @@ Set amidst the rolling hills of the Palouse, The Gathering Place is the cherishe
 
 *** [VENUE > parking info]
 Parking:
-Limited parking is available on-site along the driveway and designated areas. Please follow posted signs and attendants’ directions to ensure safe and organized parking for all guests. Those who are able, please  consider taking our shuttle or carpooling. 
+Limited parking is available on-site along the driveway and designated areas. Please follow posted signs and attendants’ directions to ensure safe and organized parking for all guests. Those who are able, please consider taking our shuttle or carpooling. 
 
 *** [VENUE > parking info]
 Shuttle:
-A shuttle between Moscow Downtown, UI (25 Silver lot — free parking during summer session!), and the wedding venue will be available. Feel free to be merry and enjoy drinks without worrying about driving.
+A shuttle between Moscow Downtown, University of Idaho (25 Silver lot — free parking during summer session!), and the wedding venue will be available. Feel free to be merry and enjoy drinks without worrying about driving.
 
 
 ============================================================
@@ -191,7 +193,7 @@ Pullman–Moscow Regional Airport (PUW) is closest — just 8 miles from the ven
 Places to Stay
 
 [TRAVEL > Places to Stay > line 1]
-Moscow and nearby Pullman have B&Bs, hotels, and rentals to suit all budgets. Please reach out if you have any questions! 
+Moscow and nearby Pullman have B&Bs, hotels, and rentals to suit all budgets. Please reach out if you have any questions! If you plan to take the shuttle, consider choosing accommodations within walking distance to pick up locations.
 
 [TRAVEL > Getting Around > heading]
 Getting Around
@@ -303,7 +305,7 @@ Kamiak_View.jpeg
 [EXPLORE > card 3 tag]
 Trees and Gardens · Strolling
 [EXPLORE > card 3 title]
-U of I Arboretum & Botanical Garden
+University of Idaho Arboretum & Botanical Garden
 [EXPLORE > card 3 description]
 A serene 65-acre garden ("The Arb") on the University of Idaho campus. Hundreds of labeled tree species from across the globe and peaceful walking paths. Gorgeous in June. Free and open to all.
 [EXPLORE > card 3 link]
@@ -327,7 +329,7 @@ Campuses · University of Idaho
 [EXPLORE > card 5 title]
 Explore UI Campus
 [EXPLORE > card 5 description]
-Walk the historic University of Idaho campus in Moscow. Take a stroll down the Hello Walk, enjoy the architecture,  visit the bookstore for Vandal Swag!
+Walk the historic University of Idaho campus in Moscow. Take a stroll down the Hello Walk, enjoy the architecture, visit the bookstore for Vandal Swag!
 [EXPLORE > card 5 link]
 https://www.uidaho.edu/explore/moscow
 [EXPLORE > card 5 photo]
@@ -336,9 +338,9 @@ UofI_admin.webp
 [EXPLORE > card 6 tag]
 Campuses · Washington State University
 [EXPLORE > card 6 title]
-Explore WSU Campuses
+Explore WSU Campus
 [EXPLORE > card 6 description]
-Vist Washington State University's beautiful campus in Pullman. Grab ice cream at Ferdinand Shoppe, Visit the "Crimson Cube" art exhibits and enjoy the scenery and architecture. Hint: if you see someone in WSU gear and yell "Go Cougs!", they will yell it back. It's the law.
+Visit Washington State University's beautiful campus in Pullman. Visit the "Crimson Cube" art exhibits and enjoy the scenery and architecture. Hint: if you see someone in WSU gear and yell "Go Cougs!", they will yell it back. It's the law.
 [EXPLORE > card 6 link]
 https://explore.wsu.edu/stories/explore-pullman/
 [EXPLORE > card 6 photo]
@@ -383,7 +385,7 @@ Adventure · Day Trip
 [EXPLORE > card 10 title]
 Coeur d'Alene
 [EXPLORE > card 10 description]
-Famous for its stunning blue waters and the world's longest floating boardwalk, it’s the perfect place to grab a coffee, walk the lakefront, or browsing the downtown boutiques. If you’re flying into GEG or driving down from the north, take a breather in downtown Coeur d’Alene.
+Famous for its stunning blue waters and the world's longest floating boardwalk, it’s the perfect place to grab a coffee, walk the lakefront, or browse the downtown boutiques. If you’re flying into GEG or driving down from the north, take a breather in downtown Coeur d’Alene.
 [EXPLORE > card 10 link]
 https://coeurdalene.org/
 [EXPLORE > card 10 photo]
@@ -394,20 +396,19 @@ Scenery · Day Trip
 [EXPLORE > card 11 title]
 Elk Creek Falls Hike
 [EXPLORE > card 11 description]
-If you enjoy a hike sticking, take the scenic 50-mile drive to Elk Creek Falls Trailhead. This spot offers the highest waterfall in Northern Idaho. The trails range from easy strolls to more moderate loops, making it accessible for anyone who wants a quick "forest fix" during their stay.
-Pro-tip: Grab a famous huckleberry ice cream in the town of Elk River on your way back!
+Take the scenic 50-mile drive to Elk Creek Falls Trailhead — the highest waterfall in Northern Idaho. The trails range from easy strolls to more moderate loops, making it accessible for anyone who wants a quick "forest fix." Note: this location requires driving some forestry roads, so a high-clearance vehicle is a good idea! Pro-tip: Grab a famous huckleberry ice cream in the town of Elk River on your way back!
 [EXPLORE > card 11 link]
-https://www.fs.usda.gov/r01/nezperce-clearwater/recreation/elk-creek-falls-trailhead-and-picnic-area[EXPLORE > card 11 photo]
+https://www.fs.usda.gov/r01/nezperce-clearwater/recreation/elk-creek-falls-trailhead-and-picnic-area
+[EXPLORE > card 11 photo]
 ElkCreekFalls.jpg
 
 
 [EXPLORE > card 12 tag]
 Scenery · Day Trip
 [EXPLORE > card 12 title]
-Elk Creek Falls Hike
+Giant Cedar Grove Trails
 [EXPLORE > card 12 description]
-Step back in time at the Giant Cedar Grove Trailhead. This ancient grove features western red cedars that have stood for centuries, including the famous "Champion Tree" a cedar that estimated to be over 3000 years old!  The trail is paved and accessible, making it a peaceful, easy walk through some of the oldest living things in the Pacific Northwest.
-Plus this location is just a bit pask Elk Creek so you can easily visit both spots in one trip.
+Step back in time at the Giant Cedar Grove Trailhead. This ancient grove features western red cedars that have stood for centuries, including the famous "Champion Tree" — estimated to be over 3,000 years old! The trail is paved and accessible, making it a peaceful, easy walk through some of the oldest living things in the Pacific Northwest. Note: this location requires driving some forestry roads, so a high-clearance vehicle is a good idea! Cell service can be limited — download a map before you go. Just a bit past Elk Creek, so you can easily visit both spots in one trip.
 [EXPLORE > card 12 link]
 https://www.fs.usda.gov/r01/nezperce-clearwater/recreation/giant-cedar-grove-trailhead
 [EXPLORE > card 12 photo]
@@ -461,7 +462,7 @@ link: https://www.google.com/maps/place/Maialina+Pizzeria+Napoletana/@46.729903,
 [EXPLORE > eats 8]
 icon: 🍹
 name: Nectar
-description: Amazing food, cocktails and a vibrant atmosphere downtown.
+description: Upscale, amazing food, cocktails and a vibrant atmosphere downtown.
 link: https://www.google.com/maps/place/Nectar+Restaurant+%26+Wine/@46.4404366,-125.1256828,6z/data=!4m10!1m2!2m1!1sNectar!3m6!1s0x54a02778e57a0b8d:0x9bcf978c671806f0!8m2!3d46.7299463!4d-117.0019179!15sCgZOZWN0YXJaCCIGbmVjdGFykgEKcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VRdFoxQXpOazEzRUFF4AEA-gEFCK4CEEs!16s%2Fg%2F1v8k_b0n?entry=ttu&g_ep=EgoyMDI2MDIyNS4wIKXMDSoASAFQAw%3D%3D
 
 [EXPLORE > eats 9]
@@ -481,6 +482,12 @@ icon: 🥙
 name: Mikey's
 description: A Moscow institution. Gyros, beers, vegetarian options, and a Moscow rite of passage.
 link:https://www.google.com/maps/place/Mikey's+Greek+Gyros/@46.7304601,-117.001748,16z/data=!3m1!4b1!4m6!3m5!1s0x54a027791e1a0a71:0x3f3704f4695cbb3b!8m2!3d46.7304601!4d-117.001748!16s%2Fg%2F1tftqtgk?entry=ttu&g_ep=EgoyMDI2MDIyNS4wIKXMDSoASAFQAw%3D%3D
+
+[EXPLORE > eats 12]
+icon: 🍸
+name: The Garden
+description: Stop by the Garden Lounge — a unique, recently remodeled bar with deep historical roots. It’s a local staple you won’t want to miss.
+link:https://www.google.com/maps/place/Garden+Lounge/@46.731819,-117.003417,289m/data=!3m1!1e3!4m10!1m2!2m1!1sthe+garden!3m6!1s0x54a0277ecccb914f:0xf08673548cb0cece!8m2!3d46.731903!4d-117.0016154!15sCgp0aGUgZ2FyZGVuWgwiCnRoZSBnYXJkZW6SAQNiYXKaASRDaGREU1VoTk1HOW5TMFZKUTBGblRVTkpOazlVWmpSQlJSQULgAQD6AQQIXBBL!16s%2Fg%2F1tjf9_1q?entry=ttu&g_ep=EgoyMDI2MDIyNS4wIKXMDSoASAFQAw%3D%3D
 
 
 ============================================================
